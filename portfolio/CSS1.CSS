@@ -1,0 +1,59 @@
+ *{ padding: 0px;
+    margin: 0px;}
+  
+ 
+ body{
+        background-image: url(white.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+        
+         }
+            
+
+    h1{
+        color:rgb(22, 114, 90);
+        font-style: italic ;
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 30px;
+
+    } 
+
+
+     h2{
+      color: rgb(95, 48, 48);
+      font-family: 'Times New Roman', Times, serif;
+      position: relative;
+       /* left: 500px; */
+       top : 100px; 
+       text-align: right;
+       margin-right:220px;
+       font-weight: 450px;
+       font-size: 65px;
+    }
+
+    span{
+        position: relative;
+       left: 470px;
+       top : 95px;
+       font-size: 25px;
+       font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        }    
+
+     ul{
+        display: flex;
+        justify-content: end;
+        align-content: end;
+        justify-content: space-evenly;
+        font-size: larger;
+        color: rgb(233, 93, 93);
+        list-style: none;
+        font-size: 20px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+       }
+       
+
+
+
+    
+
+    
